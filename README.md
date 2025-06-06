@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Josué Borges! 
 
-<!--
-**uborges/uborges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre mim
+- **Programador Back End** apaixonado por resolver desafios e criar soluções eficientes.
+- Amante de **Programação Competitiva**, sempre buscando evoluir minhas habilidades técnicas e lógicas.
 
-Here are some ideas to get you started:
+## 🛠️ Principais Tecnologias
+- **C#**
+- **React Native**
+- **TypeScript**
+- **JavaScript**
+- **HTML**
+- **CSS**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Projeto em Destaque
+### [BibliotecaSimplesApp](https://github.com/uborges/BibliotecaSimplesApp)
+Uma aplicação simples para gerenciamento de bibliotecas, feita com carinho e atenção aos detalhes de boas práticas de desenvolvimento!
+
+## 🌱 Interesses
+- Programação competitiva
+- Desenvolvimento de soluções eficientes
+- Aprendizado contínuo
+
+## 🌐 Onde me encontrar
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/josuedborges/)
+
+---
+
+> "O sucesso nasce do querer"
